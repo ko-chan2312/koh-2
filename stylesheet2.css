@@ -144,6 +144,9 @@ footer{
  padding-top: 20px;
 }
 @media all and (max-width:670px ){
+    .header-left a{
+        font-size: 10px;
+    }
     .top-description{
      padding-top: 10px;
     }
