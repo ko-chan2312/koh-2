@@ -30,6 +30,12 @@ header{
 .menu-iphone{
     display: none;
 }
+.menu-icon{
+    color:white;
+}
+.menu-list{
+   color:white;
+}
 .header-right{
  float:right;
  display:block;
@@ -148,6 +154,9 @@ footer{
  padding-top: 20px;
 }
 @media all and (max-width:670px ){
+    header{
+     height:30px;
+    }
     .menu-icon{
      display:block;
     }
