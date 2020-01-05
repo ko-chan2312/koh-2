@@ -27,8 +27,12 @@ header{
  color:white;
  font-size: 25px;
 }
+.menu-iphone{
+    display: none;
+}
 .header-right{
  float:right;
+ display:block;
 }
 .header-right a{
  color:white;
@@ -144,6 +148,12 @@ footer{
  padding-top: 20px;
 }
 @media all and (max-width:670px ){
+    .menu-icon{
+     display:block;
+    }
+    .header-right{
+     display: none;
+    }
     .header-left a{
         font-size: 10px;
     }
