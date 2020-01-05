@@ -143,12 +143,4 @@ footer{
  color: white;
  padding-top: 20px;
 }
-@media all and (max-width:670px){
 
-    .btn{
-     width:100%;
-    }
-    input,textarea{
-     width: 100%;
-    }
-    }
