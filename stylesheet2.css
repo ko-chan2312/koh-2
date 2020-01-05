@@ -29,7 +29,6 @@ header{
 }
 .header-right{
  float:right;
- display:block;
 }
 .header-right a{
  color:white;
@@ -77,12 +76,9 @@ header{
     border-radius: 4px;
     background-color: #a9a9a9;
     width:60px;
-    padding: 6px 30px;
-    margin:0 10px;
+    padding: 6px 90px;
+    margin:0 2px;
     cursor: pointer;
-}
-.language-item{
-    display: none;
 }
 .active{
     display: block;
