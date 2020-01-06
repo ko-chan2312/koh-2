@@ -80,6 +80,9 @@ header{
     margin:0 2px;
     cursor: pointer;
 }
+.langiage-item{
+    display:none;
+}
 .active{
     display: block;
     height:300px;
