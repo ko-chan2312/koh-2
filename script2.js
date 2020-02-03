@@ -8,8 +8,8 @@ $(function(){
       $list.addClass('open');
       $list.slideDown();
     }
-  })
-})
+  });
+});
 
 
 
