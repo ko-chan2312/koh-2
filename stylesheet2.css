@@ -182,5 +182,14 @@ footer{
 .header-right{
     display: none;
 }
+.menu-click{
+    width:90%;
+}
+input,textarea{
+    width:90%;
+}
+.btn{
+ width:90%;
+}
 
 }
