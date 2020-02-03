@@ -35,7 +35,7 @@ header{
     display:none;
     float:right;
 }
-.header-right-iphone a{
+.menu-click{
     color:white;
 }
 .menu-list{
@@ -167,14 +167,18 @@ footer{
 
 @media screen and (max-width: 670px) {
 .header-left a{
-    font-size: 15px;
+    font-size: 10px;
 }
 .inner-bg{
-  padding-top:10px;
-    }
-.menu-click{
+    padding-top: 30px;
+}
+.header-right-iphone{
     display: block;
 }
+.menu-list{
+    display: none;
+}
+
 .header-right{
     display: none;
 }
