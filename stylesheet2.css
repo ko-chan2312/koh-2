@@ -167,9 +167,9 @@ footer{
 
 @media screen and (max-width: 670px) {
 .header-left a{
-    font-size: 6px;
+    font-size: 10px;
 }
-.top-description h2{
+.inner-bg{
     padding-top: 30px;
 }
 .menu-click{
