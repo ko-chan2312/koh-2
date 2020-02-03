@@ -166,6 +166,12 @@ footer{
 }
 
 @media all and (max-width: 670px) {
+.header-left a{
+    font-size: 6px;
+}
+.top-description h2{
+    padding-top: 30px;
+}
 .menu-click{
     display: block;
 }
