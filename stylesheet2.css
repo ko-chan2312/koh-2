@@ -167,11 +167,11 @@ footer{
 
 @media screen and (max-width: 670px) {
 .header-left a{
-    font-size: 10px;
+    font-size: 15px;
 }
 .inner-bg{
-    padding-top: 30px;
-}
+  padding-top:10px;
+    }
 .menu-click{
     display: block;
 }
