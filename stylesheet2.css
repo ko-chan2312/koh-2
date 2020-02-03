@@ -33,8 +33,9 @@ header{
 
 .header-right-iphone{
     display:none;
+    float:right;
 }
-.menu-click{
+.header-right-iphone a{
     color:white;
 }
 .menu-list{
