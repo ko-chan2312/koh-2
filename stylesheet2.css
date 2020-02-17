@@ -41,7 +41,7 @@ header{
 .menu-list{
     background-color: black;
 }
-.menu-list li{
+.menu-list a{
     color:white;
 }
 .header-right{
@@ -97,7 +97,7 @@ header{
     background-color: #a9a9a9;
     width:40px;
     padding: 6px 90px;
-    margin:0 2px;
+    margin: 2px;
     cursor: pointer;
 }
 .language-item{
@@ -190,6 +190,13 @@ input,textarea{
 }
 .btn{
  width:90%;
+}
+button{
+    background-color: black;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    height: 20px;
 }
 
 }
