@@ -1,5 +1,5 @@
 $(function(){
-  $('.menu-click').click(function(){
+  $('.header-right-iphone').click(function(){
     var $list =$(this).find('.menu-list');
     if($list.hasClass('open')){
       $list.removeClass('open');
@@ -24,3 +24,5 @@ $(function(){
  
 });
 });
+  
+ 
